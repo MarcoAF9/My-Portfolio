@@ -29,5 +29,4 @@ navLinks.forEach(link => {
             toggleIcon.classList.add('fa-grip-lines');
         }
     });
->>>>>>> bce3343 (Simple Edit)
 });
